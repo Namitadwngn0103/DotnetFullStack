@@ -1,0 +1,7 @@
+dotnet new webapi -o filename
+
+dotnet add package Microsoft.AspNetCore.Cors
+
+dotnet add pakcage mysql.data
+
+dotnet add package Microsoft.AspNetCore.Diagnostics
